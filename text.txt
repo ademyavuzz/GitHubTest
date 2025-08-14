@@ -1,1 +1,4 @@
 ILk mesaj yazildi.
+
+Simdi text dosyasi  ixinde bir degisklige gidecegiz. Bu degisiklik ile beraber
+GitHubTest icinde yeni bir seyler deneyecegiz.
